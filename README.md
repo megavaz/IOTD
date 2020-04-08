@@ -1,5 +1,5 @@
 # IOTD
-This script changes your wallpaper with random NASA image of the day.
+This script changes your wallpaper to random NASA image of the day.
 To start using it go to https://api.nasa.gov/index.html#apply-for-an-api-key and get your api key.
 Replace Your_api_key with real api key in url variable.
 Launch it.
